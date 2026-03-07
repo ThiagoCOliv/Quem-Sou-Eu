@@ -17,3 +17,6 @@ Repositório pessoal para reunir currículos, certificados e materiais que docum
 ## Contato
 
 - LinkedIn: https://linkedin.com/in/thiago-correa-dev
+
+## Este repositório é apenas para visualização.
+`Não é permitido copiar, redistribuir ou reutilizar o código.`
