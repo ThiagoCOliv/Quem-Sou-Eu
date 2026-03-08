@@ -102,6 +102,7 @@ body{
     align-items:center;
     margin-bottom:14px;
     padding: 12px 16px;
+    border-radius: 12px;
 }
 
 .education h2{
@@ -147,12 +148,13 @@ body{
 
 .card ul{
     padding-left:18px;
-    margin:6px 0
+    margin:6px 0;
+    list-style: none;
 }
 
 .card li{ margin-bottom:12px }
 
-.skill-icon{
+.skill-icon, .skill-description{
     display: inline-flex;
     align-items: center;
     gap: 6px;
@@ -161,17 +163,60 @@ body{
     border-radius: 4px;
     font-weight: bold;
     font-size: 14px;
+    background: var(--accent);
+    color: white;
 }
 
-.skill-icon svg{
+.skill-icon svg, .skill-icon img{
     width:16px;
     height:16px;
 }
 
-.javascript{ background: #fafc12 }
+.javascript{ background: #fafc12; color: black }
 .typescript{ background: #007acc; color: white }
 .html{ background: #e44d26; color: white }
 .css{ background: #2965f1; color: white }
+.angular{ background: #dd0031; color: white }
+.react{ background: #61dafb; color: black }
+.nodejs{ background: #8cc84b; color: black }
+.express{ background: #ccc; color: black }
+.java{ background: #007396; color: white }
+
+.mysql{ background: #00758f; color: white }
+.sql-server{ background: #e6e6e6; color: black }
+
+.certifications-list{
+    list-style: none;
+}
+
+.certifications-list li{
+    border-bottom: 1px dashed var(--muted);
+    margin-bottom:12px;
+    padding:18px 12px;
+    position: relative;
+}
+
+.card .references-list{
+    margin: 12px auto;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.references-list li a{
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    text-decoration: none;
+    color: black;
+    padding: 8px 12px;
+    border-radius: 4px;
+}
+
+.references-list li a:hover{
+    background: var(--accent);
+    color: white;
+    text-decoration: none;
+}
 
 .whatsapp-button{
     position:fixed;
@@ -204,8 +249,15 @@ body{
 .site-footer{
     padding:18px 0;
     text-align:center;
-    color:var(--muted);
+    border-top: 1px solid var(--muted);
+    background: var(--muted);
+    color:var(--bg);
     font-size:13px
+}
+
+.site-footer a{
+    color:var(--bg);
+    text-decoration:underline
 }
 
 /* responsive */
