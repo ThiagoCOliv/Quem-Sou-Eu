@@ -32,7 +32,7 @@ Atividades e responsabilidades principais:
 - Criação e digitalização de checklists eletrônicos, automatizando processos internos e otimizando fluxo de informações
 
 ### Auxiliar de produção — Linhanyl
-Fev/2026 – Atual
+Fev/2026 – MAR/2026
 
 Atividades e responsabilidades principais:
 - Atuação no setor de embalagem.
@@ -43,6 +43,16 @@ Atividades e responsabilidades principais:
 - Identificação e rotulagem dos cones de linha com etiquetas.
 - Trabalho com foco em organização, agilidade e cumprimento dos padrões de qualidade e segurança.
 
+### OPERADOR DE CAIXA - REDE BOM LUGAR
+Jul/2026 - Atual
+
+Atividades e responsabilidades principais:
+- Atendimento ao cliente no processo de compras e pagamento.
+- Operação, controle e conferência dos valores do caixa.
+- Organização e manutenção do espaço de trabalho.
+- Embalagem das compras dos clientes.
+- Devolução e organização de produtos nas prateleiras.
+
 ---
 
 ## Habilidades
@@ -52,7 +62,7 @@ Atividades e responsabilidades principais:
 - Backend / APIs: Node.js, Express, Java
 - Banco de dados: MySQL, SQL Server, SQL
 - Ferramentas e automação: N8N, automação de tarefas, criação de dashboards
-- Inteligência Artificial: conhecimentos práticos e cursos aplicados a projetos (ex.: tradutor de LIBRAS)
+- Inteligência Artificial: conhecimentos práticos e cursos aplicados a projetos (ex.: tradutor de LIBRAS), IA aplicada a vendas, Lovable, IA Generativa, Agentes de IA
 - Ferramentas de produtividade: Pacote Office (Excel, Word, PowerPoint)
 - Boas práticas: organização de arquivos, gestão de inventário, trabalho em equipe
 
@@ -60,6 +70,7 @@ Atividades e responsabilidades principais:
 
 ## Certificações
 
+- Criação de produtos com IA — DIO — Set/2026
 - Automação com N8N — DIO — Nov/2025
 - User Experience — FIAP — Fev/2025
 - Bootcamp Microsoft AI for Tech - GitHub Copilot — DIO — Jan/2025
